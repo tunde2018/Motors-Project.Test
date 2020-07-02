@@ -17,8 +17,8 @@ Feature: To Buy Car Search
     Examples:
       |PostCode | Make(Any)|Model(Any)|MinPrice(Any)|MaxPrice(Any)|CarLocation  |
       |OL10 3HL |Show all  |Show all  |£75,000      |£169,950     | Show all    |
-#     |OL10 3HL |Show all  |Show all  |£75,000      |No max       | Show all    |
-#     |OL10 3HL |Show all  |Show all  |No min       |£169,950     | Show all    |
+     |OL10 3HL |Show all  |Show all  |£75,000      |No max       | Show all    |
+     |OL10 3HL |Show all  |Show all  |No min       |£169,950     | Show all    |
 #    |OL10 3HL |Show all  |Show all  |£75,000      | £169,950    | Show all    |
 #    |OL10 3HL |Bentley  |Bentayga   |£75,000      | £250,000   | Show all    |
 #    |OL10 3HL |Aston Martin  |Vantage 8 |£154,950      | £169,950    | Show all    |
